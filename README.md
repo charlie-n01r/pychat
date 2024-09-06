@@ -1,3 +1,3 @@
 # PyChat
 
-A simple websocket chat exercise
+A simple websocket chat exercise in python.
